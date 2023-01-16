@@ -18,6 +18,8 @@ public class TestApplication {
 
 	@GetMapping("/sayhello")
 	public String SayHello(){
-		return "hello This is realy Working with the big coder";
+		return "hello This is realy Working with the big coder ....";
 	}
 }
+
+// crer une page php
